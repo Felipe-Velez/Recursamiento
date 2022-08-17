@@ -1,0 +1,57 @@
+10/08/2022 - curso para control de versione con GIT #5
+
+clase del 10 de Agosto de 2022
+Curso de GIT donde se trabajaron con los siguientes comandos
+
+git init 
+
+git add -A
+
+git commit -m "mensaje"
+
+git log
+
+git checkout-Commit
+
+
+
+
+
+11/08/2022 - Creacion y vinculacion de repositorio github con GIT local #6
+
+**Clase 11 de Agosto de 2022**
+Se creo repositorio para gestionar nuestra aplicacion movil y se vinculo con nuestro repositorio local.
+ Para realizar esa actividad se utilizo el comando de GIT:
+
+	git clon URLProyecto (La url la tomamos del repositorio web de github que creamos)
+
+
+
+
+
+11/08/2022 - Gestion del proyecto "Recursamiento" en tableros de Github (Desarrollo Agil)
+
+**Clase 11 de Agosto del 2022**
+Creamos proyecto para gestionar de forma agil nuestro curso utilizando tableros de github.
+Esta actividad se continuara realizando por todo el curso.
+
+
+
+
+
+12/08/2022 - Creacion de proyecto base, utilizando Bootstrap
+**Clase 12 de Agosto del 2022**
+
+-Crear proyecto base de nuestra aplicacion
+-Integrarle Bootstrap para que nuestra app sea responsiva
+
+//Responsiva es una aplicacion que se visualiza de forma correcta en diferentesa tamaños de dispositivos moviles
+
+
+
+
+
+12/08/2022 - Seleccion de App a desarrollar
+**Clase 12 de Agosto del 2022**
+Realizar una lluvia de ideas para seleccionar la app a desarrollar (Tematica)
+
